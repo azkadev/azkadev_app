@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "azkadev-backend-lowdb-legacy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  }
 }
