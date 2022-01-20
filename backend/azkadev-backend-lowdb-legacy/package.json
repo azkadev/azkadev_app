@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lowdb": "^1.0.0"
+    "fastify": "^3.24.1",
+    "fastify-autoload": "^3.9.0",
+    "fastify-jwt": "^4.1.0",
+    "lowdb": "^1.0.0",
+    "node-fetch": "^2.6.1"
   }
 }

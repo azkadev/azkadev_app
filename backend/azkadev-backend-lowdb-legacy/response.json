@@ -1,0 +1,30 @@
+{
+    "method": {
+        "not_found": {
+            "status_bool": false,
+            "status_code": 404,
+            "message": "Please Add Method!",
+            "result": null
+        },
+        "not_listed": {
+            "status_bool": false,
+            "status_code": 404,
+            "message": "Method not found in server!",
+            "result": null
+        }
+    },
+    "server": {
+        "error": {
+            "status_bool": false,
+            "status_code": 500,
+            "message": "Server Error",
+            "result": null
+        },
+        "maintance": {
+            "status_bool": false,
+            "status_code": 400,
+            "message": "Server Maintance Please wait",
+            "result": null
+        }
+    }
+}
