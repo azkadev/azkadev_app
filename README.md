@@ -1,5 +1,8 @@
-# azkadev_app
+IyBhemthZGV2X2FwcAoKQXprYWRldiBBcHAgaXMgYW4gb3BlbiBzb3VyY2Ug
+YXBwIGZvciBkZXZlbG9wZXIgZWR1Y2F0aW9uIHRvIG1ha2UgaXQgZWFzaWVy
+IHRvIGNyZWF0ZSBhcHBzCgpsYXRlciB0aGlzIGFwcGxpY2F0aW9uIHdpbGwg
+YmUgY3JlYXRlZCB1c2luZyB0aGUgbm9kZS1qcyBiYWNrZW5kCg==
 
-Azkadev App is an open source app for developer education to make it easier to create apps
-
-later this application will be created using the node-js backend
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
